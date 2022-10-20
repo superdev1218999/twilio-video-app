@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "9802C041-B6BF-41C3-848C-6F90A8A8BC8F",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:VideoApp.xcodeproj",
+        "identifier" : "DC5CC38C249C0EC000355CC6",
+        "name" : "Video-InternalUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
